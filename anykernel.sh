@@ -4,13 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string= Miku kernel by Lynx
+kernel.string= Kernel by Lynx @hakazeee
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ysl
+device.name1=citrus
+device.name2=lime
+device.name3=lemon
+device.name4=pomelo
+device.name5=juice
 supported.versions=
 supported.patchlevels=
 '; } # end properties
